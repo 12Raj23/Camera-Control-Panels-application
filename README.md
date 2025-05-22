@@ -53,7 +53,6 @@ camera-control-app/
 │
 ├── frontend/
 │   ├── index.html       // IP & Port Input Page
-│   ├── control.html     // Camera Controls Page
 │   ├── style.css
 │   └── script.js
 │
