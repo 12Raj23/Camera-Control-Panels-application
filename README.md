@@ -1,9 +1,6 @@
 # Camera-Control-Panels-application
 -------
 
-markdown
-# Camera Control Panels Application
-
 This is a web-based Camera Control Panels application built using **Java (Spring Boot)** for the backend and **HTML, CSS, JavaScript** for the frontend.
 
 The application allows users to:
