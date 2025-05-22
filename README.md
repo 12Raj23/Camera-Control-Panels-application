@@ -49,7 +49,7 @@ camera-control-app/
 │           └── java/com/yourcompany/cameracontrol/
 │               ├── CameraController.java
 │               ├── ConnectionService.java
-│               └── Application.java
+│               
 │
 ├── frontend/
 │   ├── index.html       // IP & Port Input Page
